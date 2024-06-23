@@ -25,5 +25,3 @@ export async function connectToDatabase(): Promise<MongoClient> {
     }
     return client
 }
-
-
